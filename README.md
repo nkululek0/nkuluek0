@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Nkululeko Vuyo Zikode, better referred to as Vuyo
 I'm currently working on levelling up my skills in using various front-end frameworks<br>like Vue and Angular.<br>Then potentially adopting a strong backend language like Java.
 
 
